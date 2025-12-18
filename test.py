@@ -1,1 +1,1 @@
-print"Wassup Buddy!! v13
+condprint"Wassup Buddy!! v13
